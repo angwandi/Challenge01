@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome">Welcome to ACL 4.0</string>
+    <string name="btnAboutAlc">About ALC</string>
+    <string name="btnMyProfile">My Profile</string>
+    <string name="name">Innocent Dema</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="stack">Stack Username:</string>
+    <string name="android">Android</string>
+    <string name="kenya">Kenya</string>
+    <string name="myemail">demsdema217@gmail.com</string>
+    <string name="myPhone">+254741552312</string>
+    <string name="mySlack">\@innocent</string>
+</resources>
